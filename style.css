@@ -37,6 +37,15 @@ h2 {
     padding:7%;
     border-radius:30px;
 }
+time {
+    color:white;
+}
+.text-wrapper h1 {
+    color:white;
+}
+.text-wrapper h2 {
+    color:white;
+}
 .image-wrapper img {
     object-fit: contain;
     width:100%;
